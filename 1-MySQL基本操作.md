@@ -1,7 +1,7 @@
 # MySQL基本操作
 
 ```sql
-$ mysql -u root -p
+mysql -u root -p
 ```
 
 `-u` 用户名，`-p` 输入密码， `-h` 主机名， `-P` 端口，
