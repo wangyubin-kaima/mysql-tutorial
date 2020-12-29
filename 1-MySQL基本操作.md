@@ -66,7 +66,7 @@ SELECT prod_name FROM products;
 SELECT prod_id, prod_name, prod_price FROM products;
 
 -- 检索所有列
---检索products表中的所有列
+-- 检索products表中的所有列
 SELECT * FROM products;
 
 -- 检索不同的行
