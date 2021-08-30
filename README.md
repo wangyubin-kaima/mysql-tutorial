@@ -1,7 +1,7 @@
 # MySQL-notes
 
 《MySQL 必知必会》笔记
-
+branch main
 顺序有调整
 
 create.sql 和 populate.sql 为原书给出的 sql 脚本。
